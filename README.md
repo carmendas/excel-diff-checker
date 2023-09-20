@@ -41,10 +41,10 @@ $ excel-diff-checker->  flask --app upload-file run
 ## Datasets
 To test this app, you can use the files below :
   ### Input
- - **Reference file** : <a href="https://github.com/carmendas/excel-diff-checker/blob/main/static/datasets/test-excel-files/reference.xlsx"> reference.xlsx </a>
- - **File to compare** : <a href="https://github.com/carmendas/excel-diff-checker/blob/main/static/datasets/test-excel-files/original.xlsx"> original.xlsx </a>
+ - **Reference file** : <a href="https://github.com/carmendas/excel-diff-checker/blob/master/static/datasets/test-excel-files/reference.xlsx"> reference.xlsx </a>
+ - **File to compare** : <a href="https://github.com/carmendas/excel-diff-checker/blob/master/static/datasets/test-excel-files/original.xlsx"> original.xlsx </a>
   ### Output
- - **Result file** : <a href="https://github.com/carmendas/excel-diff-checker/blob/main/static/datasets/output/original.zip"> original.zip </a>
+ - **Result file** : <a href="https://github.com/carmendas/excel-diff-checker/blob/master/static/datasets/output/original.zip"> original.zip </a>
 
 
 # Author
@@ -54,18 +54,18 @@ To test this app, you can use the files below :
 <hr>
 <p align="center">
   <a href="mailto:lauretadassi@gmail.com">
-    <img src="https://github.com/carmendas/excel-diff-checker/blob/main/Assets/square-envelope-solide.svg" width="30" height="30" hspace="20">
+    <img src="https://github.com/carmendas/excel-diff-checker/blob/master/static/Assets/square-envelope-solide.svg" width="30" height="30" hspace="20">
   </a>
 
   <a href="https://github.com/carmendas">
-    <img src="https://github.com/carmendas/excel-diff-checker/blob/main/Assets/square-github.svg" width="30" height="30" hspace="20">
+    <img src="https://github.com/carmendas/excel-diff-checker/blob/master/static/Assets/square-github.svg" width="30" height="30" hspace="20">
   </a>
 
   <a href="https://www.linkedin.com/in/carmen-dassi-80008720b">
-    <img src="https://github.com/carmendas/excel-diff-checker/blob/main/Assets/linkedin.svg" width="30" height="30" hspace="20">
+    <img src="https://github.com/carmendas/excel-diff-checker/blob/master/static/Assets/linkedin.svg" width="30" height="30" hspace="20">
   </a>
 
   <a href="https://twitter.com/laureta_das">
-    <img src="https://github.com/carmendas/excel-diff-checker/blob/main/Assets/square-twitter.svg" width="30" height="30" hspace="20">
+    <img src="https://github.com/carmendas/excel-diff-checker/blob/master/static/Assets/square-twitter.svg" width="30" height="30" hspace="20">
   </a>
 </p>
