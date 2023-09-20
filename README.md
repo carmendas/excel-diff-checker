@@ -49,12 +49,8 @@ To test this app, you can use the files below :
 
 # Author
 <p align="center">
-  <code> Carmen DASSI </code>
-</p>
-<hr>
-<p align="center">
   <a href="mailto:lauretadassi@gmail.com">
-    <img src="https://github.com/carmendas/excel-diff-checker/blob/master/static/Assets/square-envelope-solide.svg" width="30" height="30" hspace="20">
+    <img src="https://github.com/carmendas/excel-diff-checker/blob/master/static/Assets/square-envelope-solid.svg" width="30" height="30" hspace="20">
   </a>
 
   <a href="https://github.com/carmendas">
